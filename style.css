@@ -1,0 +1,30 @@
+.choice-btn {
+      width: 100px;
+      height: 100px;
+      font-size: 2rem;
+      transition: all 0.3s;
+    }
+    .choice-btn:hover {
+      transform: scale(1.1);
+    }
+    .result-card {
+      min-height: 200px;
+    }
+    .computer-choice {
+      transform: scaleX(-1);
+    }
+    .game-area {
+      max-width: 600px;
+    }
+    .win {
+      background-color: rgba(40, 167, 69, 0.2) !important;
+    }
+    .lose {
+      background-color: rgba(220, 53, 69, 0.2) !important;
+    }
+    .tie {
+      background-color: rgba(255, 193, 7, 0.2) !important;
+    }
+    #reset-btn {
+      margin-top: 15px;
+    }
