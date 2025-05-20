@@ -27,7 +27,3 @@ A responsive Rock Paper Scissors game built with:
 - 🔊 Sound effects for wins/losses
 - 🚀 Animations when choices are made
 - 📈 Statistics (win percentages, streaks)
-
-## Installation
-```bash
-git clone https://github.com/your-username/rock-paper-scissors.git
